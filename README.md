@@ -1,2 +1,7 @@
-# teslaStockprice-
-a machine learning-based Tesla stock price prediction system using Linear Regression,SVR, and Random Forest Regression. The model was trained on historical stock price data to forecast future prices. The project also included an interactive front-end interface, allowing users to input relevant data and view real-time prices
+A full stack Predictive analytics tool for forecasting Tesla stock price.
+Engineered a predictive analytics tool for Tesla stock price forecasting, leveraging Linear Regression, Support Vector Regression and Random Forest techniques.
+TECH STACK: Python, Flask, HTML, CSS, JS
+ML Algorithms: Linear Regression, SVR, RandomForestRegressor
+**Key features:**
+Performed Cross validation to overcome overfitting issues
+An interactive front end for real time predictions
